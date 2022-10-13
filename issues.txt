@@ -1,0 +1,3 @@
+creating a web application
+maintaining the application
+clearing the bugs
