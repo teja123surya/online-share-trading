@@ -1,0 +1,3 @@
+creating a web application 
+make users understand what is trade.
+and hoe to sell and buy stocks.
